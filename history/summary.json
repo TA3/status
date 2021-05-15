@@ -58,17 +58,17 @@
     "url": "https://qgg.hud.ac.uk",
     "icon": "https://favicons.githubusercontent.com/qgg.hud.ac.uk",
     "slug": "qgg",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 760,
-    "timeWeek": 764,
-    "timeMonth": 725,
-    "timeYear": 762,
+    "time": 760,
+    "timeDay": 696,
+    "timeWeek": 747,
+    "timeMonth": 722,
+    "timeYear": 760,
     "dailyMinutesDown": {}
   }
 ]
